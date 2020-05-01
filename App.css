@@ -1,0 +1,33 @@
+h1 {
+   color: crimson;
+   text-align: center;
+}
+.calculator-body {
+    max-width: 600px;
+    margin: auto;
+
+  }
+
+.result {
+    height: 60px;
+    background-color: rgb(153, 123, 123);
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+  }
+  
+.result p {
+font-size: 40px;
+margin: 15px;
+
+}
+.button {
+    display: block;
+    background-color: rgb(31, 26, 26);
+  }
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+    background-color: rgb(168, 11, 11);
+    border-color: rgb(49, 35, 38);
+  }
